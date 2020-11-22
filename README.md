@@ -2,4 +2,4 @@
 
 I’m currently starting my internship after my training at DSTI (Data ScienceTech Institute)
 
-Below, The projects and personal work I've done during the last 6 monthes
+Below, The projects and personal work I've done during the last 6 months
